@@ -1,4 +1,4 @@
-# Forsaken Companions — Fear & Hunger 1 Mod
+# Forsaken Companions - Fear & Hunger 1 Mod
 
 Leave companions on the map and recruit them again later in **Fear & Hunger 1**. Manage your party without permanently dismissing companions. Requires [MattieFM Mod Loader](https://mattiefm.itch.io/fear-and-hunger-mod-loader).
 
@@ -57,7 +57,7 @@ Designed for **Fear & Hunger 1**, not Termina. This is an experimental community
 3. Скачайте `forsakenCompanions.js` и `forsakenCompanions.json` из репозитория или релиза v1.0.
 4. Поместите оба файла в папку игры `www/mods`.
 5. Включите `forsakenCompanions` в загрузчике модов.
-6. **Обязательно принудительно включите ванильные сохранения — “Force vanilla saves” в настройках загрузчика модов.**
+6. **Обязательно принудительно включите ванильные сохранения - “Force vanilla saves” в настройках загрузчика модов.**
 
 В Steam папка обычно находится здесь:
 `Steam/steamapps/common/Fear & Hunger/www/mods`
